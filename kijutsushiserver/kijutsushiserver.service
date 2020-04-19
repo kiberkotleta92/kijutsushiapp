@@ -1,0 +1,12 @@
+[Unit]
+Desctiption kijutsushi
+
+[Service]
+Type=idle
+ExecStart=/home/kirill/work/bin/kijutsushiserver
+Restart=always
+User=kirill
+RestartSec=3s
+
+[Install]
+WantedBy=multi-user.target
