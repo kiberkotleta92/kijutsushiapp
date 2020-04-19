@@ -1,4 +1,4 @@
-module kijutsushiapp/kijutsushi
+module github.com/kirilldenisov/kijutsushiapp/kijutsushi/
 
 go 1.14
 

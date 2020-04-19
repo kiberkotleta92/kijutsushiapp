@@ -21,7 +21,7 @@ THE SOFTWARE.
 */
 package main
 
-import "kijutsushiapp/kijutsushi/cmd"
+import "github.com/kirilldenisov/kijutsushiapp/kijutsushi/cmd"
 
 func main() {
 	cmd.Execute()
